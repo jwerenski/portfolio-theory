@@ -1,6 +1,5 @@
 ## Hello!
-
-UPDATED in July 2021, previous versions used Polygon.io as stock source.
+Added to Github July 2021, previous versions used Polygon.io as stock source.
 
 Here is the link to the Tableau public dashboard of my data!
 https://public.tableau.com/views/StockCorrelation/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link 
